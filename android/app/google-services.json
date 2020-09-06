@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "968725097043",
+    "firebase_url": "https://nas-chat-ba315.firebaseio.com",
+    "project_id": "nas-chat-ba315",
+    "storage_bucket": "nas-chat-ba315.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968725097043:android:59f6c9bead84568dbd34a6",
+        "android_client_info": {
+          "package_name": "com.omarnasir.naschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968725097043-qouo5604ic6vte5ru9sjab4v1t907gf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuMeNG4HY60dI4hMI9DT_2Xwr_PB9jqmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968725097043-qouo5604ic6vte5ru9sjab4v1t907gf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
